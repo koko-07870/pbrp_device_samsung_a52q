@@ -5,7 +5,7 @@ This was tested and it's fully compatible with [minimal manifest twrp](https://g
 1. Set up the build environment following instructions from [here](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp/blob/twrp-11/README.md#getting-started)
 2. Clone device tree:
 ```bash
-git clone -b android-12.1 https://github.com/Simon1511/twrp_device_samsung_a52q.git device/samsung/a52q
+git clone -b twrp-12.1 https://github.com/koko-07870/twrp_device_samsung_a52q.git device/samsung/a52q
 ```
 3. To build:
 ```bash
